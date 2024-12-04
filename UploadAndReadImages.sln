@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadAndReadImages.Server", "UploadAndReadImages.Server\UploadAndReadImages.Server.csproj", "{D8A151DB-344C-4649-BD5C-192E360E9FAC}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "uploadandreadimages.client", "uploadandreadimages.client\uploadandreadimages.client.esproj", "{DF98E5CB-D9B4-456D-93A3-A31F8D6252C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A151DB-344C-4649-BD5C-192E360E9FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A151DB-344C-4649-BD5C-192E360E9FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A151DB-344C-4649-BD5C-192E360E9FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A151DB-344C-4649-BD5C-192E360E9FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF98E5CB-D9B4-456D-93A3-A31F8D6252C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF98E5CB-D9B4-456D-93A3-A31F8D6252C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF98E5CB-D9B4-456D-93A3-A31F8D6252C2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF98E5CB-D9B4-456D-93A3-A31F8D6252C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF98E5CB-D9B4-456D-93A3-A31F8D6252C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF98E5CB-D9B4-456D-93A3-A31F8D6252C2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {903E207F-F760-4FBA-BCA2-3B9B807AACBD}
+	EndGlobalSection
+EndGlobal

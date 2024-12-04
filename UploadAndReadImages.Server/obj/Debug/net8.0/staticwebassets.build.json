@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "mI7KKnS6/NWCDguLx2Wen5j+Vuash4NKdJ97Xd4z0c0=",
+  "Source": "UploadAndReadImages.Server",
+  "BasePath": "_content/UploadAndReadImages.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Aykhan Zeynalov\\source\\repos\\UploadAndReadImages\\uploadandreadimages.client\\uploadandreadimages.client.esproj",
+      "Version": 2,
+      "Source": "uploadandreadimages.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

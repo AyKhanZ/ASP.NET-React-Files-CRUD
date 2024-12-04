@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UploadAndReadImages.Server.props" />
+</Project>

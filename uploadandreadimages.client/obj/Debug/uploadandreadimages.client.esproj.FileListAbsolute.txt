@@ -1,0 +1,1 @@
+C:\Users\Aykhan Zeynalov\source\repos\UploadAndReadImages\uploadandreadimages.client\obj\Debug\uploadandreadimages.client.esproj.CoreCompileInputs.cache
